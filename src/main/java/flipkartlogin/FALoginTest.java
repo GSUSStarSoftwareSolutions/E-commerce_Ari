@@ -36,7 +36,7 @@ public class FALoginTest {
                 break;
 			}
 		}
-        System.out.println(driver.getCurrentUrl());
+        System.out.println(driver.getCurrentUrl()); 
 	}
 
 }
